@@ -29,6 +29,7 @@ function generatePassword () {
     passLength = parseInt(userLength);
     if (passLength < 8 || passLength > 128) {
       alert("Please choose a number between 8 and 128.");
+      return
     } else {
       console.log("The password is " + passLength + " characters long.");
     }
