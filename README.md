@@ -3,11 +3,18 @@
 ## Description
 This webpage prompts the user to select a series of criteria to generate a password of random characters.
 
+Users can choose a password that:
+* Is between 8 - 128 characters long
+* Contains lowercase letters
+* Contains uppercase letters
+* Contains numbers
+* Contains special characters
+
 
 ## Usage
 Deployed link to live site can be found at: https://suejinkim20.github.io/password-generator/
 
-When the "Generate Password" link is clicked, the following pop-up box appears:
+When the "Generate Password" button is clicked, the following pop-up box appears:
 ![Screenshot 1](./assets/images/screenshot1.png)
 
 ## Credits
