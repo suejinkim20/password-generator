@@ -19,6 +19,7 @@ body {
 
 body {
   background: url("../images/jason-dent-3wPJxh-piRw-unsplash.jpg");
+  background-size: 100%;
 }
 
 .wrapper {
